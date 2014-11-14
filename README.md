@@ -4,8 +4,6 @@ Seth is a very superstitious fan of the Chicago Bears with a very specific routi
 
 -----
 
-
-
 To Run Program:
 
 ```ruby
