@@ -2,8 +2,7 @@ require_relative 'lib/civis_analytics'
 
 
 def start
-  print "\e[2J"
-  print "\e[H"
+  system("clear")
   puts "------------------- Welcome to What Paraphernalia You Have to Wear Today! -------------------\n"
   puts ""
   menu
